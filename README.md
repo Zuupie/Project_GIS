@@ -1,55 +1,56 @@
-## Seminarprojekt GIS
+## Seminar Project GIS
 
 ![cover image](./images/cover.png)
 
-Name: Geschichte im Spiel
+Name: "Geschichte im Spiel"
 
-Entwickler: 7 Leute aus der Klasse 12/5 (WMS)
+Developers: 7 individuals from Class 12/5 (WMS)
 
-Zeitraum: 20.03.2022 - 24.07.2022
+Duration: March 20, 2022 - July 24, 2022
 
 ---
 
-### Geschichte:
-
-Man spielt einen Schüler welcher sich in einem Museum (Abteilung Nachkriegszeit) befindet. Er kann mit den Gegenständen interagieren und erlebt eine Reise zurück in die Vergangenheit. Dabei können kleine Minispiele gespielt werden.
+### Story:
+You're stepping into the shoes of a student exploring a museum exhibit all about the post-war era. You'll be able to interact with objects around you and take a trip back in time, while also enjoying some entertaining mini-games!
 
 ![games image](./images/all_games.jpeg)
 
 ---
 
-### Informationen zu den Minispielen:
+### Mini-Game Information:
 
-#### Wunder von Bern:
-- Ziel ist es so viele Tore wie möglich in der gegebenen Zeit zu erzielen 
-- Steuerung ist unter dem Fragezeichen zu finden
-- Man braucht mindestens zwei Spieler
+#### Miracle of Bern:
 
-#### Walküre:
-- Ziel ist es in der gegebenen Zeit Hitler zu finden die Bombe neben ihm zu platzieren (und im besten Fall wieder rauszukommen)
-- Steuerung
-    - “E” : Bombe platzieren
-    - “F” : Sich in den Schränken verstecken
-    - “R” : Aus dem Versteck herauskommen
-    - ..? Easter Egg verwenden (muss erst gefunden werden)
-- Tipp: Finde die Treppen ins Erdgeschoss 
+- The goal is to score as many goals as possible within the given time frame
+- Controls are explained under the question mark icon
+- Requires a minimum of two players
 
-#### Ballonflucht:
-- Ziel ist es ins Ziel zukommen ohne Hindernisse zu berühren 
-- Steuerung
-    - “WASD” : normal zum bewegen
+#### Valkyrie:
+- The goal is to locate Hitler within the given time frame, place the bomb next to him, and ideally escape
+- Controls:
+    - "E": Place bomb
+    - "F": Hide in the wardrobe
+    - "R": Come out of hiding
+    - ...? Use Easter Egg (must be found first)
+- Tip: Find the stairs to the ground floor
 
-#### Süßigkeiten sammeln:
-- Ziel ist es in gegebener Zeit so viele Süßigkeiten wie möglich zu sammeln
-- Steuerung ist unter dem Fragezeichen zu finden
+#### Balloon Escape:
+- The objective is to reach the goal without touching any obstacles
+- Controls:
+    - "WASD": Normal movement
+
+#### Candy Collection:
+- The goal is to collect as many candies as possible within the given time frame
+- Controls are explained under the question mark icon
 
 ---
 
-### Technische Daten:
+### Technical Specifications:
 
-* Teilweise wird die Controller Steuerung unterstützt
-* Die meisten Spiele sind Singleplayer, bis auf eins
-* Funktioniert auf Windows, MacOS und Linux
-* Alles wurde mit C# in der Umgebung Unity entwickelt
+* Partial controller support is available.
+* Most games are single-player, except for one.
+* Compatible with Windows, MacOS, and Linux.
+* Developed using C# within the Unity environment.
+* Unity Version 2021.1.20f1 works fine
 
-Viel Spaß beim Spielen und weiterentwickeln!!
+Enjoy playing and further developing!!
